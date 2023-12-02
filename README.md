@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋
+<h1 align="center">Welcome 👋</h1>
 
 Hi! I'm **Babouche701**, a french beginner in I.T.
 
